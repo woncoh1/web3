@@ -5,7 +5,6 @@
 - [Polkadot](https://polkadot.network/)
 - [Terra](https://www.terra.money/)
 - [Cosmos](https://cosmos.network/)
-- [Avalanche](https://www.avax.network/)
 
 ## Ethereum
 - [web3.py](https://web3py.readthedocs.io/en/stable/)
