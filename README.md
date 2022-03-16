@@ -3,5 +3,8 @@
 - Blockchain
     - [Ethereum](https://ethereum.org/en/)
     - [Solana](https://solana.com/)
+    - [Polkadot](https://polkadot.network/)
+    - [Cosmos](https://cosmos.network/)
+    - [Avalanche](https://www.avax.network/)
 - [Remix](https://remix.ethereum.org/)
 - [Tool Guide 2022](https://betterprogramming.pub/top-10-smart-contract-developer-tools-you-need-for-2022-b763f5df689a)
