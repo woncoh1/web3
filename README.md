@@ -11,4 +11,4 @@
 - [web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Remix](https://remix.ethereum.org/)
 
-## Gaming (Metaverse)
+## Metaverse
