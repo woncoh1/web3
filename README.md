@@ -1,4 +1,4 @@
-# Web 3.0
+# Web3
 - [Ethereum](https://ethereum.org/en/)
 - [Solana](https://solana.com/)
 - [Polkadot](https://polkadot.network/)
