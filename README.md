@@ -16,4 +16,8 @@
 ## Terra
 - [Docs](https://docs.terra.money/index.html)
 
+## Utility
+- [Etherscan](https://etherscan.io/)
+- [Chainlist](https://chainlist.org/)
+
 ## Metaverse
