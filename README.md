@@ -1,4 +1,5 @@
 # Web3
+## Blockchains
 - [Ethereum](https://ethereum.org/en/)
 - [Solana](https://solana.com/)
 - [Polkadot](https://polkadot.network/)
@@ -8,16 +9,20 @@
 - [Polygon](https://polygon.technology/)
 - [Avalanche](https://www.avax.network/)
 
-## Ethereum
+### Ethereum
 - [Guide (2022)](https://betterprogramming.pub/top-10-smart-contract-developer-tools-you-need-for-2022-b763f5df689a)
 - [web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Remix](https://remix.ethereum.org/)
 
-## Terra
+### Terra
 - [Docs](https://docs.terra.money/index.html)
 
-## Utility
+## Utilities
 - [Etherscan](https://etherscan.io/)
 - [Chainlist](https://chainlist.org/)
 
-## Metaverse
+## ETC
+- NFT
+- Metaverse
+- DeFi
+- DAO
