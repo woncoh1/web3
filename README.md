@@ -20,6 +20,8 @@
 ## Utilities
 - [Etherscan](https://etherscan.io/)
 - [Chainlist](https://chainlist.org/)
+- [Token Lists](https://tokenlists.org/)
+- [Cosmos Chain Registry](https://github.com/cosmos/chain-registry)
 
 ## ETC
 - NFT
