@@ -22,8 +22,11 @@
 - [Chainlist](https://chainlist.org/)
 - [Token Tracker](https://etherscan.io/tokens)
 - [Token Lists](https://tokenlists.org/)
-- [Token Contracts](https://medium.com/@jgm.orinoco/understanding-erc-20-token-contracts-a809a7310aa5)
 - [Cosmos Chain Registry](https://github.com/cosmos/chain-registry)
+
+## Resources
+- [Token Contracts](https://medium.com/@jgm.orinoco/understanding-erc-20-token-contracts-a809a7310aa5)
+- [Token Standards](https://crypto.com/university/what-are-token-standards)
 
 ## ETC
 - NFT
