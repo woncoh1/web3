@@ -2,6 +2,7 @@
 ## Blockchains
 - [Ethereum](https://ethereum.org/en/)
 - [Solana](https://solana.com/)
+- [Cardano](https://cardano.org/)
 - [Polkadot](https://polkadot.network/)
 - [Cosmos](https://cosmos.network/)
 - [Terra](https://www.terra.money/)
