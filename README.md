@@ -14,6 +14,7 @@
 - [Guide (2022)](https://betterprogramming.pub/top-10-smart-contract-developer-tools-you-need-for-2022-b763f5df689a)
 - [web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Remix](https://remix.ethereum.org/)
+- [Tools](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
 ### Terra
 - [Docs](https://docs.terra.money/index.html)
